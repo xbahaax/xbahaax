@@ -21,26 +21,27 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" height="55" alt="go logo"  />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img width="0" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="flutter logo"  />
 </div>
 
 
 <div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="55" alt="nestjs logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=django" height="55" alt="django logo"  />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="55" alt="dotnet logo"  />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
   <img width="0" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="fastapi logo"  />
  
 </div>
 
@@ -56,7 +57,7 @@
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
   <img width="0" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="55" alt="azure logo"  />
 </div>
 
 
