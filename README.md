@@ -59,28 +59,15 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </div>
 
-### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xbahaax&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xbahaax&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
 
+<br clear="both">
 
-
-
-
+<img src="https://raw.githubusercontent.com/flh-raouf/flh-raouf/output/snake.svg" alt="Snake animation">
 
 ###
