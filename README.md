@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=go" height="55" alt="go logo"  />
+   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="rust logo"  />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=flutter" height="55" alt="flutter logo"  />
 </div>
