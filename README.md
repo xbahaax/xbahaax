@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahaa</h1>
 <h3 align="center">A Back-End Dev , passionate with DevOps and Cyber Security</h3>
-🔭 I’m currently holding a position as a **Back-End Developer** at [Zidny Agency](https://www.zidnyagency.com/).
+- 🔭 I’m currently holding a position as a **Back-End Developer** at [Zidny Agency](https://www.zidnyagency.com/).
 
 
 - 👨‍💻 All of my projects are available at [https://lekhchine-bahaa.vercel.app](https://lekhchine-bahaa.vercel.app)
