@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bahaa</h1>
-<h3 align="center">A Back-End Dev , passionate with DevOps and Cyber Security</h3>
-- 🔭 I’m currently holding a position as a **Back-End Developer** at [Zidny Agency](https://www.zidnyagency.com/).
+<h3 align="center">A Back-End Developer, passionate about DevOps and Cyber Security</h3>
 
+<p>🔭 I’m currently holding a position as a <strong>Back-End Developer</strong> at 
+<a href="https://www.zidnyagency.com/" target="_blank">Zidny Agency</a>.</p>
 
-- 👨‍💻 All of my projects are available at [https://lekhchine-bahaa.vercel.app](https://lekhchine-bahaa.vercel.app)
+<p>👨‍💻 All of my projects are available at 
+<a href="https://lekhchine-bahaa.vercel.app" target="_blank">https://lekhchine-bahaa.vercel.app</a>
+</p>
+
 <br>
 
 <div align="center">
